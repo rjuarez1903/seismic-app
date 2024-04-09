@@ -1,6 +1,10 @@
 # Seismic App
 
-Welcome to the Seismic App project, a monorepo that includes both a backend API and a frontend UI. This README provides instructions to set up and run both parts of the project, which are located in separate directories within this monorepo: api for the backend API and ui for the frontend UI.
+Welcome to the Seismic App, an interactive platform designed to provide up-to-date information on seismic events around the world. This monorepo contains both the backend API and the frontend UI components, making it a comprehensive solution for tracking and commenting on earthquake data. Utilizing data from the United States Geological Survey (USGS), the Seismic App allows users to explore recent earthquakes, delve into specific details, and engage with a community through comments.
+
+The backend API, built with Ruby on Rails, fetches and serves earthquake data, while the frontend UI, created with React, presents this data in an accessible and user-friendly format. Together, they offer a rich, interactive experience for users interested in geological events.
+
+This README provides detailed instructions on setting up and running the API and UI, ensuring you have everything you need to get started with the Seismic App.
 
 ## Prerequisites
 
