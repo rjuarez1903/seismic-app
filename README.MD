@@ -54,12 +54,13 @@ This command runs all the tests located in the spec/models directory, ensuring t
 
 ## Setting up the UI
 
+Before starting the frontend UI, make sure the backend API is already running. You may need to open a new terminal window or tab to keep the API server running in the background.
+
 1. Navigate to the `ui` directory: `cd ui`
 
 2. Install the required packages: `npm install`
 
 3. Start the development server: `npm run dev`
-
 
 The UI will be available at [http://localhost:5173](http://localhost:5173)
 
