@@ -15,7 +15,7 @@ To get started with this project, you'll need to clone the repository to your lo
 
 1. Open your terminal.
 2. Navigate to the directory where you want to clone the repository.
-3. Run the following command: `git clone https://your-repository-url-here.git`
+3. Run the following command: `git clone https://github.com/rjuarez1903/seismic-app.git`
 4. Once the repository has been cloned, navigate into the project's directory: `cd seismic-app`
 
 ## Setting up the API
@@ -34,7 +34,7 @@ To get started with this project, you'll need to clone the repository to your lo
 
 To start the Rails server, run: `rails server`
 
-The API will be available at [http://localhost:3000](http://localhost:3000).
+The API will be available at [http://localhost:3000](http://localhost:3000)
 
 ## API Documentation with Swagger
 
@@ -61,7 +61,7 @@ This command runs all the tests located in the spec/models directory, ensuring t
 3. Start the development server: `npm run dev`
 
 
-The UI will be available at `http://localhost:5173`.
+The UI will be available at [http://localhost:5173](http://localhost:5173)
 
 ## Additional Notes
 
