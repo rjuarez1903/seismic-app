@@ -192,7 +192,8 @@ const SeismicDataTable = ({ onCommentClick, title }) => {
 };
 
 SeismicDataTable.propTypes = {
-    title: PropTypes.string
+    title: PropTypes.string,
+    onCommentClick: PropTypes.func
 };
 
 export default SeismicDataTable;
