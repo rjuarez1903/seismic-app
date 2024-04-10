@@ -24,7 +24,6 @@ const validationSchema = Yup.object({
 
 const CommentFormDialog = ({ featureId, open, handleClose }) => {
     const theme = useTheme();
-    const fullScreen = useMediaQuery(theme.breakpoints.down('sm'));
     const { enqueueSnackbar } = useSnackbar();
 
     const resetForm = () => {
